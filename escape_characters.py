@@ -1,0 +1,6 @@
+print("\nDisplays a new line")
+print("\tDisplays a tabspace")
+print("\\Display a backslash")
+print("\" display a double quote")
+print("\'Display a single quote")
+print("\n\t I am Beep!")
